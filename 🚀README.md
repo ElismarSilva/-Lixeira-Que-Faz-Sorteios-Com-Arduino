@@ -1,4 +1,5 @@
 
+
 # Projeto de Lixeira Inteligente
 Este é um projeto de uma lixeira inteligente que realiza a seleção aleatória de um nome da lista quando está cheia. A lixeira possui um mecanismo de abertura controlado por um servo motor e utiliza sensores de proximidade e de limite para o seu funcionamento.
 

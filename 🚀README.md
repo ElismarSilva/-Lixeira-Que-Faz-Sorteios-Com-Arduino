@@ -28,4 +28,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou e
 
 ## Autor
 
-- [Seu Nome](https://github.com/ElismarSilva) - Autor do projeto
+Elismar Silva - Autor do projeto

@@ -1,0 +1,6 @@
+﻿Nome,Quantidade,Componente
+"UArduino uno",1," Arduino Uno R3"
+"PIEZOBuzzer",1," Piezo"
+"TILTsensor de proximidade, TILTsensor limite",2," Sensor de inclinação"
+"SERVO1",1,"Posicional Micro servo"
+"SPush button",1," Botão"

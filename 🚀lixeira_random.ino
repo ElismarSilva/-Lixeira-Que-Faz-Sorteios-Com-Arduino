@@ -15,7 +15,7 @@
 #define SENSOR_LIMIT 2 //sensor que controla se a lixeira esta cheia ou vazia
 #define SENSOR_PROXIMIT 4 //Sensor de proximidade para acionar a abertura da tampa
 #define PIN_MOTOR 3   //Servo da tampa da lixeira
-#define BTN 5 //botao que deliga o buzzer
+#define BTN 5 //botao que desliga o buzzer
 
 //Lista de nomes que ira sortear ([5] matriz com 5 strings)([10] cada string
 //com ate 10 caracters.
